@@ -1,0 +1,18 @@
+email,name,company,segment,status,tags
+ana.lopez@example.com,Ana Lopez,Fernhill Pet Supplies,supplier,,
+ ANA.LOPEZ@example.com ,Ana Lopez,Fernhill Pet Supplies,supplier,,webinar
+ben.okafor@example.org,Ben Okafor,Oakline Home Goods,brand,customer,
+chen.wei@example.net,Chen Wei,Brightpaw Pet Care,brand,,
+dana.ito@example.com,Dana Ito,Saltmarsh Living,brand,,
+dana.ito@example.com,Dana Ito,Saltmarsh Living,brand,customer,
+eli.novak@example.com,Eli Novak,Hollow Creek Materials,supplier,unsubscribed,
+farah.khan@example.org,Farah Khan,Marlow Home,brand,,
+gio.rossi@example.com,Gio Rossi,Bluebell Pets,brand,,
+hana.lee@example,Hana Lee,Tidewater Supply,supplier,,
+ivan.petrov@example.net,Ivan Petrov,Pet Trade Weekly,media,,
+jun.park@example.com,Jun Park,Northgate Manufacturing,manufacturer,,
+kai.meyer@example.org,Kai Meyer,Cedar & Paw,brand,,demo
+lena.fischer@example.com,Lena Fischer,Riverbend Labs,supplier,bounced,
+maya.singh@example.net,Maya Singh,Quietpaw,brand,,
+noah.berg@example.com,Noah Berg,State University,student,,
+olga.ivanova@example.org,Olga Ivanova,Pinecrest Contract Packing,manufacturer,,
